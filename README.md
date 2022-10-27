@@ -2,7 +2,7 @@
 
 ## ABOUT PROJECT-
 
-- this was built to get hands on knowledge on ReactJS, its components, props, state, lifecycle hooks, JSON and fetch. 
+- this was built to get hands on knowledge on JSON, ReactJS its components, props, state, lifecycle hooks and fetch. 
 
 ## Cloning/Contributing && Getting started
 - To get started, do the following 
